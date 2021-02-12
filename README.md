@@ -8,6 +8,8 @@ $apt update
 
 $apt install git python2 -y
 
+$git clone https://github.com/THUND3RB0LT/THBD-LOVE
+
 #USAGE:
 
 $cd THBD-LOVE
